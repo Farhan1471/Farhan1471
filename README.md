@@ -24,8 +24,8 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### Backend
@@ -53,12 +53,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=Farhan1471&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Farhan's GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farhan1471&theme=tokyonight" alt="Farhan's GitHub Stats" width="32%"/>
+  <img src="https://streak-stats.demolab.com/?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub Streak" width="34%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan1471&theme=tokyonight" alt="Top Languages" width="28%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Farhan1471&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan1471&theme=tokyonight" alt="Farhan's Contribution Graph" width="96%"/>
 </p>
 
 ---
@@ -66,12 +67,6 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/farhan1471" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/farhan1471" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://fb.com/farhan1471" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
