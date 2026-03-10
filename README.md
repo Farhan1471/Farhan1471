@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
@@ -54,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhan1471&show_icons=true&theme=tokyonight&hide_border=true" alt="Farhan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.demolab.com/api?username=Farhan1471&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Farhan's GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan1471&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Farhan1471&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
