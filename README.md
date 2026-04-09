@@ -1,5 +1,7 @@
+<img align=”right” alt=”Banner” width=”400” src="./farhan.png"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+👋;I+am+Farhan+A+Islam+Shuvo;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I+am+Farhan+A+Islam+Shuvo;" alt="Typing SVG" />
 </p>
 
 ## Full Stack Web Developer 🚀 | JavaScript, React, Node.js, Express.js, MongoDB, PHP, MySQL | Building modern, scalable websites 🌐
@@ -29,31 +31,23 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" alt="Frontend stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark&size=40" alt="Frontend stack" />
 </p>
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Backend stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark&size=40" alt="Backend stack" />
 </p>
 
 ### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&size=40" alt="Database stack" />
 </p>
 
 ### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" alt="Tools and platforms" />
-</p>
-
----
-
-## 📅 Contribution Activity
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/1f6feb/Farhan1471" alt="Farhan's contribution calendar" width="96%"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark&size=40" alt="Tools and platforms" />
 </p>
 
 ---
@@ -61,7 +55,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub streak" width="96%"/>
+  <img src="https://streak-stats.demolab.com?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub streak" width="90%"/>
 </p>
 
 ---
@@ -75,5 +69,3 @@
 </p>
 
 ---
-
-<p align="center">⭐ <em>From <a href="https://github.com/Farhan1471">Farhan1471</a></em></p>
