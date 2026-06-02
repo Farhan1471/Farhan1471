@@ -53,10 +53,11 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub streak" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhan1471&show_icons=true&theme=tokyonight&hide_border=true" alt="Farhan's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan1471&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="39%"/>
 </p>
 
 ---
