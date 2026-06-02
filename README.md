@@ -17,6 +17,7 @@
 
 ---
 
+
 ## 🧩 Work Style
 
 <p align="center">
@@ -57,6 +58,14 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Farhan1471&theme=tokyonight&hide_border=true" alt="Farhan's GitHub streak" width="90%"/>
 </p>
+
+---
+
+
+## 🗣️ Languages
+
+- **Bangla:** Native
+- **English:** Fluent
 
 ---
 
