@@ -53,6 +53,21 @@
 
 ---
 
+## 📁 Featured Projects
+
+### 🛍️ [Medibook | Find a Doctor](https://doctors.scratchive.com)
+A healthcare platform where users can find doctors, explore medical specialties, and book appointments online.  
+**Tech Stack:** PHP, MySQL, TailwindCSS
+
+### 💬 [Ecotex | Business Portfolio Website](https://ecotex.scratchive.com)
+A business portfolio website where users can find information about the company and its products.   
+**Tech Stack:** HTML, TailwindCSS, PHP
+
+### 🔍 [Boi-Nei | Borrow a Book](https://farhans-boi-nei.vercel.app)
+A platform where users can search, browse, and borrow books easily. 
+**Tech Stack:** HTML, TailwindCSS, Next.Js, MongoDB
+
+---
 
 ## 🗣️ Languages
 
