@@ -9,19 +9,21 @@
   />
 </p>
 
----
-
 ## 🙋‍♂️ About Me
 
-- 🖥️ Working on the frontend with JavaScript, React.js, Next.js, HTML5, CSS3, and Tailwind CSS.
-- 🗄️ Building the backend with Node.js, Express.js, PHP, MySQL, MongoDB, and REST APIs.
-- 🛠️ Currently exploring TypeScript and expanding my full-stack development skills.
-- 🤝 Open to collaboration, freelance projects, and new opportunities.
+- 💻 Full Stack Developer passionate about building modern web applications.
+- 🤝 Open to collaboration, freelance projects and new opportunities.
 - 🌐 **Visit my Portfolio:** [faishuvo.me](https://faishuvo.me)
 - 💼 **Let's connect on LinkedIn:** [linkedin.com/in/shuvo1471](https://www.linkedin.com/in/shuvo1471)
 - 📫 **Reach me at:** [farhanislam395@gmail.com](mailto:farhanislam395@gmail.com)
 
 ---
+
+## 🚀 What I'm Working On
+
+- 🖥️ Building frontend applications with JavaScript, React.js, Next.js, HTML5, CSS3 and Tailwind CSS.
+- 🗄️ Developing backend applications using Node.js, Express.js, PHP, MySQL, MongoDB and REST APIs.
+- 🛠️ Currently exploring TypeScript.
 
 ## 🛠️ Skill
 
@@ -58,7 +60,7 @@
     <img src="https://api.iconify.design/logos/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/farhanmobile8697" target="_blank">
     <img src="https://api.iconify.design/logos/discord-icon.svg" alt="Discord" width="40" height="40" />
   </a>
 </p>
