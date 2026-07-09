@@ -50,14 +50,16 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shuvo1471">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shuvo1471" target="_blank">
+    <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://wa.me/8801846701079">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  &nbsp;
+  <a href="https://wa.me/8801846701079" target="_blank">
+    <img src="https://api.iconify.design/logos/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  &nbsp;
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://api.iconify.design/logos/discord-icon.svg" alt="Discord" width="40" height="40" />
   </a>
 </p>
 
@@ -70,3 +72,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Farhan1471&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="GitHub stats"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan1471&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Farhan1471&hide_border=true&theme=tokyonight"
+    alt="GitHub streak stats"
+  />
+</p>
+
+---
