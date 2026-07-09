@@ -1,39 +1,33 @@
 <img align=”right” alt=”Banner” width=”400” src="./farhan.png"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I+am+Farhan+A+Islam+Shuvo;" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Md. Farhan -A- Islam Shuvo</h1>
 
-## Full Stack Web Developer 🚀 | JavaScript, React, Node.js, Express.js, MongoDB, PHP, MySQL | Building modern, scalable websites 🌐
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2196F3&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;JavaScript+Developer;MERN+Stack+Developer;Open+Source+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working with JS, React.js, PHP, MySQL
-- 🚀 I'm currently exploring Next.Js
-- 🌱 I'm continuously learning and improving my skills
-- 📫 Reach me at: **farhanislam395@gmail.com**
+- 🖥️ Working on the frontend with JavaScript, React.js, Next.js, HTML5, CSS3, and Tailwind CSS.
+- 🗄️ Building the backend with Node.js, Express.js, PHP, MySQL, MongoDB, and REST APIs.
+- 🛠️ Currently exploring TypeScript and expanding my full-stack development skills.
+- 🤝 Open to collaboration, freelance projects, and new opportunities.
+- 🌐 **Visit my Portfolio:** [faishuvo.me](https://faishuvo.me)
+- 💼 **Let's connect on LinkedIn:** [linkedin.com/in/shuvo1471](https://www.linkedin.com/in/shuvo1471)
+- 📫 **Reach me at:** [farhanislam395@gmail.com](mailto:farhanislam395@gmail.com)
 
 ---
 
-
-## 🧩 Work Style
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code-1f6feb?style=for-the-badge" alt="Clean code" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-0f766e?style=for-the-badge" alt="Responsive design" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-f59e0b?style=for-the-badge" alt="Problem solving" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-9333ea?style=for-the-badge" alt="Continuous learning" />
-</p>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Skill
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark&size=40" alt="Frontend stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&theme=dark&size=40" alt="Frontend stack" />
 </p>
 
 ### Backend
@@ -53,19 +47,19 @@
 
 ---
 
-## 📁 Featured Projects
+## 🤝 Connect with Me
 
-### 🛍️ [Medibook | Find a Doctor](https://doctors.scratchive.com)
-A healthcare platform where users can find doctors, explore medical specialties, and book appointments online.  
-**Tech Stack:** PHP, MySQL, TailwindCSS
-
-### 💬 [Ecotex | Business Portfolio Website](https://ecotex.scratchive.com)
-A business portfolio website where users can find information about the company and its products.   
-**Tech Stack:** HTML, TailwindCSS, PHP
-
-### 🔍 [Boi-Nei | Borrow a Book](https://farhans-boi-nei.vercel.app)
-A platform where users can search, browse, and borrow books easily. 
-**Tech Stack:** HTML, TailwindCSS, Next.Js, MongoDB
+<p align="left">
+  <a href="https://www.linkedin.com/in/shuvo1471" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+</p>
 
 ---
 
@@ -76,12 +70,3 @@ A platform where users can search, browse, and borrow books easily.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shuvo1471" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
