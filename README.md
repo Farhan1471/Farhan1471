@@ -75,24 +75,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  A quick snapshot of my contribution activity, languages, and streaks.
+</p>
+
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan1471&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan1471&theme=github_dark"
     alt="GitHub contribution summary"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan1471&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Farhan1471&hide_border=true&theme=tokyonight"
-    alt="GitHub streak stats"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan1471&theme=github_dark"
+        alt="Top languages"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Farhan1471&hide_border=true&theme=github-dark-blue"
+        alt="GitHub streak stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
