@@ -76,17 +76,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Farhan1471&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    alt="GitHub stats"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhan1471&theme=tokyonight"
+    alt="GitHub contribution summary"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan1471&layout=compact&hide_border=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhan1471&theme=tokyonight"
     alt="Top languages"
-    height="180"
   />
 </p>
 
